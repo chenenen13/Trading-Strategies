@@ -24,16 +24,3 @@ To use this notebook effectively, you need to have the following libraries insta
 3. Make sure all the required libraries are installed.
 4. Execute the cells in order to analyze stock market data and explore the momentum trading strategy.
 
-## Contributing
-Feel free to contribute to the development of this notebook. Contributions, bug reports, and feature requests are all welcome. Please refer to the [issues page](your-link-to-issues-page) for more details.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Contact
-Your Name - [Your Email](mailto:your-email@example.com)
-
-## Acknowledgements
-- Hat tip to anyone whose code was used.
-- Inspiration, etc.
-
