@@ -17,12 +17,6 @@ To run this notebook, ensure you have the following libraries installed:
 - ta
 - pandas
 
-## Usage
-1. Clone or download the notebook to your local machine.
-2. Open the notebook using Jupyter Lab or Jupyter Notebook.
-3. Install the required libraries if you haven't already.
-4. Run the cells in sequence to perform technical analysis on chosen stock market data.
-
 ## Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check [[chenjietrading13.wordpress.com](https://chenjietrading13.wordpress.com/)]if you want to contribute.
 
