@@ -24,7 +24,7 @@ To run this notebook, ensure you have the following libraries installed:
 4. Run the cells in sequence to perform technical analysis on chosen stock market data.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [chenjietrading13.wordpress.com](your-link-to-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [[chenjietrading13.wordpress.com](https://chenjietrading13.wordpress.com/)]if you want to contribute.
 
 
 ![image](https://github.com/chenenen13/Trading-Strategies/assets/122288399/c6697b24-775f-4e96-ad3e-3bf4ed586246)
