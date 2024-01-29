@@ -16,4 +16,7 @@ This project implements a basic pair trading strategy using Python, demonstratin
 - **Backtesting:** Simple backtesting logic to evaluate the strategy's performance.
 - **Visualization:** Plots to visualize stock prices, spread, Z-Score, and trading signals.
 
+Contributions, issues, and feature requests are welcome. Feel free to check [[chenjietrading13.wordpress.com](https://chenjietrading13.wordpress.com/)]if you want to contribute.
+
+
 ![image](https://github.com/chenenen13/Pair-trading/assets/122288399/6e42c54f-7dc0-4be5-a441-6ed0e1a1fa27)
