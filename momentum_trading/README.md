@@ -18,9 +18,5 @@ To use this notebook effectively, you need to have the following libraries insta
 - pandas
 - scipy
 
-## Usage
-1. Download the notebook to your system.
-2. Open it using Jupyter Lab or Jupyter Notebook.
-3. Make sure all the required libraries are installed.
-4. Execute the cells in order to analyze stock market data and explore the momentum trading strategy.
+Contributions, issues, and feature requests are welcome. Feel free to check [chenjietrading13.wordpress.com](https://chenjietrading13.wordpress.com/)if you want to contribute.
 
